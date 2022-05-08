@@ -1,0 +1,12 @@
+Items:
+  selector:
+    name: '&cServer Selector'
+    material: BOOK
+    slot: 1
+    lore:
+      status: true
+      line:
+        - ''
+  enderboot:
+  profile:
+  cosmetic:

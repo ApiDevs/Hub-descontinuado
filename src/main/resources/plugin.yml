@@ -1,0 +1,11 @@
+name: Hub
+version: '${project.version}'
+main: dev.api
+api-version: 1.18
+authors: API
+
+commands:
+  setspawn:
+    description: set spawn command
+  spawn:
+    description: spawn command

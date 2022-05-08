@@ -1,0 +1,33 @@
+#                                                                                      #
+#  ,---.   ,--.                               ,-----.                ,---.,--.         #
+# '   .-',-'  '-. ,---. ,--.--.,--,--,--.    '  .--./ ,---. ,--,--, /  .-'`--' ,---.   #
+# `.  `-.'-.  .-'| .-. ||  .--'|        |    |  |    | .-. ||      \|  `-,,--.| .-. |  #
+# .-'    | |  |  ' '-' '|  |   |  |  |  |    '  '--'\' '-' '|  ||  ||  .-'|  |' '-' '  #
+# `-----'  `--'   `---' `--'   `--`--`--'     `-----' `---' `--''--'`--'  `--'.`-  /   #
+#                                                                             `---'    #
+#                                                                                      #
+
+system:
+  queue: "NONE" # EZQUEUE or NONE
+
+doublejump:
+  enabled: true
+  velocity: 1.0
+  sound: "BLAZE_HIT"
+
+spawn:
+  location:
+
+welcome:
+  enabled: true
+  sound: "CAT_MEOW"
+  message:
+    - "&7&m-----------------------------------"
+    - " &cWelcome &f%player_name% &cto the &4&lStorm Network"
+    - ""
+    - " &9Discord&7: &f%discord%"
+    - " &aStore&7: &f%store%"
+    - " &bTwitter&7: &f%twitter"
+    - ""
+    - " &7&oUse the compass to travel between our different gamemodes."
+    - "&7&m-----------------------------------"

@@ -1,0 +1,268 @@
+#                                                                                            #
+#  ,---.   ,--.                              ,--------.       ,--.   ,--.,--.        ,--.    #
+# '   .-',-'  '-. ,---. ,--.--.,--,--,--.    '--.  .--',--,--.|  |-. |  |`--' ,---.,-'  '-.  #
+# `.  `-.'-.  .-'| .-. ||  .--'|        |       |  |  ' ,-.  || .-. '|  |,--.(  .-''-.  .-'  #
+# .-'    | |  |  ' '-' '|  |   |  |  |  |       |  |  \ '-'  || `-' ||  ||  |.-'  `) |  |    #
+# `-----'  `--'   `---' `--'   `--`--`--'       `--'   `--`--' `---' `--'`--'`----'  `--'    #
+#                                                                                            #
+# ICONS:                                                                                     #
+#                                                                                            #
+# PLACEHOLDERS:                                                                              #
+#                                                                                            #
+
+tab:
+  enabled: true
+  header:
+    - "  "
+    - " &4&lStorm Network "
+    - " "
+  footer:
+    - " "
+    - " &fYou are playing the &4Hub &fmode on the &4stormh.cf "
+    - " "
+  left:
+    1:
+      text: ""
+      skin: ""
+    2:
+      text: ""
+      skin: ""
+    3:
+      text: ""
+      skin: ""
+    4:
+      text: ""
+      skin: ""
+    5:
+      text: "&4Your Rank"
+      skin: ""
+    6:
+      text: "&7Rank: &r%luckperms_suffix%"
+      skin: ""
+    7:
+      text: ""
+      skin: ""
+    8:
+      text: ""
+      skin: ""
+    9:
+      text: ""
+      skin: ""
+    10:
+      text: ""
+      skin: ""
+    11:
+      text: ""
+      skin: ""
+    12:
+      text: "&4HCFactions"
+      skin: "%offline%"
+    13:
+      text: "&7Online: &c%bungee_hcf%"
+      skin: ""
+    14:
+      text: "&7Status: &r%pinger_isonline_localhost:25584%"
+      skin: ""
+    15:
+      text: ""
+      skin: ""
+    16:
+      text: ""
+      skin: ""
+    17:
+      text: "&aStore"
+      skin: "%store%"
+    18:
+      text: "&fstore.stormh.cf"
+      skin: ""
+    19:
+      text: ""
+      skin: ""
+    20:
+      text: ""
+      skin: ""
+  center:
+    1:
+      text: ""
+      skin: ""
+    2:
+      text: ""
+      skin: ""
+    3:
+      text: "&4&lStorm Network"
+      skin: ""
+    4:
+      text: "&7Online&7: &c%bungee_all%&f/&c1,500"
+      skin: ""
+    5:
+      text: ""
+      skin: ""
+    6:
+      text: ""
+      skin: ""
+    7:
+      text: ""
+      skin: ""
+    8:
+      text: ""
+      skin: ""
+    9:
+      text: "&4&lServer Status"
+      skin: "%server%"
+    10:
+      text: ""
+      skin: ""
+    11:
+      text: ""
+      skin: ""
+    12:
+      text: "&4Practice"
+      skin: "%offline%"
+    13:
+      text: "&7Online: &c%bungee_practice%"
+      skin: ""
+    14:
+      text: "&7Status: &r%pinger_isonline_localhost:25571%"
+      skin: ""
+    15:
+      text: ""
+      skin: ""
+    16:
+      text: ""
+      skin: ""
+    17:
+      text: "&9Discord"
+      skin: "%discord%"
+    18:
+      text: "&fdiscord.stormh.cf"
+      skin: ""
+    19:
+      text: ""
+      skin: ""
+    20:
+      text: ""
+      skin: ""
+  right:
+    1:
+      text: ""
+      skin: ""
+    2:
+      text: ""
+      skin: ""
+    3:
+      text: ""
+      skin: ""
+    4:
+      text: ""
+      skin: ""
+    5:
+      text: "&4Player Information"
+      skin: "%information%"
+    6:
+      text: "&7Player: &f%player_name%"
+      skin: ""
+    7:
+      text: "&7Ping: &f%player_ping%ms"
+      skin: ""
+    8:
+      text: ""
+      skin: ""
+    9:
+      text: ""
+      skin: ""
+    10:
+      text: ""
+      skin: ""
+    11:
+      text: ""
+      skin: ""
+    12:
+      text: "&4Kitmap"
+      skin: "%offline%"
+    13:
+      text: "&7Online: &c%bungee_kitmap%"
+      skin: ""
+    14:
+      text: "&7Status: &r%pinger_isonline_localhost:25596%"
+      skin: ""
+    15:
+      text: ""
+      skin: ""
+    16:
+      text: ""
+      skin: ""
+    17:
+      text: "&bTwitter"
+      skin: "%twitter%"
+    18:
+      text: "@StormNetwork"
+      skin: ""
+    19:
+      text: ""
+      skin: ""
+    20:
+      text: ""
+      skin: ""
+
+  # Only 1.8 #
+  farright:
+    1:
+      text: ""
+      skin: ""
+    2:
+      text: ""
+      skin: ""
+    3:
+      text: ""
+      skin: ""
+    4:
+      text: ""
+      skin: ""
+    5:
+      text: ""
+      skin: ""
+    6:
+      text: ""
+      skin: ""
+    7:
+      text: ""
+      skin: ""
+    8:
+      text: ""
+      skin: ""
+    9:
+      text: ""
+      skin: ""
+    10:
+      text: ""
+      skin: ""
+    11:
+      text: ""
+      skin: ""
+    12:
+      text: ""
+      skin: ""
+    13:
+      text: ""
+      skin: ""
+    14:
+      text: ""
+      skin: ""
+    15:
+      text: ""
+      skin: ""
+    16:
+      text: ""
+      skin: ""
+    17:
+      text: ""
+      skin: ""
+    18:
+      text: ""
+      skin: ""
+    19:
+      text: ""
+      skin: ""
+    20:
+      text: ""
+      skin: ""
